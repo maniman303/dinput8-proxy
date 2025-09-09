@@ -1,0 +1,10 @@
+﻿  dinput8.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     Creating library D:\Programowanie\dinput8-proxy\x64\Release\dinput8.lib and object D:\Programowanie\dinput8-proxy\x64\Release\dinput8.exp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 479 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dinput8-proxy.vcxproj -> D:\Programowanie\dinput8-proxy\x64\Release\dinput8.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
